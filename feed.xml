@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Agents of Shift</title>
-    <link href="https://joegasper.github.io/agentsofshift/feed.xml" rel="self" />
-    <link href="https://joegasper.github.io/agentsofshift" />
-    <updated>2019-10-19T22:52:40-04:00</updated>
+    <link href="https://www.agentsofshift.io/feed.xml" rel="self" />
+    <link href="https://www.agentsofshift.io" />
+    <updated>2019-10-19T22:59:16-04:00</updated>
     <author>
         <name>Joe Gasper</name>
     </author>
-    <id>https://joegasper.github.io/agentsofshift</id>
+    <id>https://www.agentsofshift.io</id>
 
     <entry>
         <title>Microsoft Teams Private Channels FAQ</title>
         <author>
             <name>Joe Gasper</name>
         </author>
-        <link href="https://joegasper.github.io/agentsofshift/private-channels-faq/"/>
-        <id>https://joegasper.github.io/agentsofshift/private-channels-faq/</id>
+        <link href="https://www.agentsofshift.io/private-channels-faq/"/>
+        <id>https://www.agentsofshift.io/private-channels-faq/</id>
 
         <updated>2019-10-19T21:48:50-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://joegasper.github.io/agentsofshift/media/posts/1/shifts-logo-purple.jpg" alt="" />
+                        <img src="https://www.agentsofshift.io/media/posts/1/shifts-logo-purple.jpg" alt="" />
                     Q: Can a regular channel be converted into a private channel? A: No, you cannot convert regular channels into private channels. Channels are defined as private when they are created. Q: Can a private channel be converted into a regular channel? A: No, you cannot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://joegasper.github.io/agentsofshift/media/posts/1/shifts-logo-purple.jpg" alt="" />
+                    <img src="https://www.agentsofshift.io/media/posts/1/shifts-logo-purple.jpg" alt="" />
                 <p>Q: Can a regular channel be converted into a private channel?</p>
 <p>A: No, you cannot convert regular channels into private channels. Channels are defined as private when they are created.</p>
 <p> </p>

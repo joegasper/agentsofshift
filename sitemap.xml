@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://joegasper.github.io/agentsofshift/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.agentsofshift.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://joegasper.github.io/agentsofshift/</loc>
+<loc>https://www.agentsofshift.io/</loc>
 </url>
 <url>
-<loc>https://joegasper.github.io/agentsofshift/private-channels-faq/</loc>
+<loc>https://www.agentsofshift.io/private-channels-faq/</loc>
 <lastmod>2019-10-19T21:48:50-04:00</lastmod>
 <image:image>
-<image:loc>https://joegasper.github.io/agentsofshift/media\posts\1/shifts-logo-purple.jpg</image:loc>
+<image:loc>https://www.agentsofshift.io/media\posts\1/shifts-logo-purple.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

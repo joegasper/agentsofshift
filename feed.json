@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Agents of Shift",
+    "description": "",
+    "home_page_url": "https://joegasper.github.io/agentsofshift",
+    "feed_url": "https://joegasper.github.io/agentsofshift/feed.json",
+    "user_comment": "",
+    "icon": "https://joegasper.github.io/agentsofshift/media/website/shift-logo.png",
+    "author": {
+        "name": "Joe Gasper"
+    },
+    "items": [
+        {
+            "id": "https://joegasper.github.io/agentsofshift/private-channels-faq/",
+            "url": "https://joegasper.github.io/agentsofshift/private-channels-faq/",
+            "title": "Microsoft Teams Private Channels FAQ",
+            "summary": "Q: Can a regular channel be converted into a private channel? A: No, you cannot convert regular channels into private channels. Channels are defined as private when they are created. Q: Can a private channel be converted into a regular channel? A: No, you cannot&hellip;",
+            "content_html": "<p>Q: Can a regular channel be converted into a private channel?</p>\n<p>A: No, you cannot convert regular channels into private channels. Channels are defined as private when they are created.</p>\n<p> </p>\n<p>Q: Can a private channel be converted into a regular channel?</p>\n<p>A: No, you cannot convert private channels into regular channels.</p>\n<p> </p>\n<p>Q: What is the governance around creating private channels?</p>\n<p>A: Team owners manage a team-level setting for enabling the creation of private channels by members. Team owners can see, in channel management, the list of all channels and the listed owner(s) of private channels.</p>\n<p> </p>\n<p>Q: How does access and visibility work with private channels?</p>\n<p>A: You must be a member of a private channel for it to be visible in your channel list. Only members or owners of the private channel can see its conversations, documents, and resources. Team owners don't have access to a private channel’s resources unless they are a member of the private channel. The private channel's corresponding SharePoint folder is only visible in the document library to members of the private channel.</p>\n<p> </p>\n<p>Q: Who can add members to a private channel?</p>\n<p>A: The creator of the private channel becomes an owner of the private channel and can add or remove channel members and designate others as additional channel owners.</p>\n<p> </p>\n<p>Q: Are there options for limiting access to existing conversations when adding someone new to a private channel?</p>\n<p>A: No, members added to a private channel will see all its previous conversations.</p>\n<p> </p>\n<p>Q: Can guests participate in private channels?</p>\n<p>A: Yes, guests can be members of private channels.</p>\n<p> </p>\n<p>Q: Can you send email to private channels?</p>\n<p>A: Yes, the email functionality is the same as a regular channel.</p>\n<p> </p>\n<p>Q: Can Teams mobile apps access private channels and its documents and resources?</p>\n<p>A: Yes, mobile apps can access private channels and its contained resources.</p>\n<p> </p>\n<p>Q: Are all Teams apps and Office 365 integrations available for private channels?</p>\n<p>A: No, there is a limited set of apps and integrations for private channels.</p>",
+            "image": "https://joegasper.github.io/agentsofshift/media/posts/1/shifts-logo-purple.jpg",
+            "author": {
+                "name": "Joe Gasper"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-19T21:44:49-04:00",
+            "date_modified": "2019-10-19T21:48:50-04:00"
+        }
+    ]
+}
